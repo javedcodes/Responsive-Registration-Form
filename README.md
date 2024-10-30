@@ -1,6 +1,6 @@
 # Responsive Registration Form
 
-This **<a href="https://jvcodes.com/responsive-registration-form-in-html-and-css/">Glassmorphism Login Form</a>** is designed to provide a smooth and user-friendly sign-up experience that adapts perfectly to various devices. Created with HTML, CSS, and JavaScript, this form is highly customizable, easily integrable with popular CMS platforms, and well-suited for modern web applications. This repository contains the complete source code for easy implementation and personalization.
+This **<a href="https://jvcodes.com/responsive-registration-form-in-html-and-css/">Responsive Registration Form</a>** is designed to provide a smooth and user-friendly sign-up experience that adapts perfectly to various devices. Created with HTML, CSS, and JavaScript, this form is highly customizable, easily integrable with popular CMS platforms, and well-suited for modern web applications. This repository contains the complete source code for easy implementation and personalization.
 
 ## Features
 
@@ -33,9 +33,9 @@ To integrate the registration form into popular CMS platforms:
 
 ## Source Code
 
-You can get complete code with documentation for **Glassmorphism Login Form** by visiting the following link:
+You can get complete code with documentation for **Responsive Registration Form** by visiting the following link:
 
-**<a href="https://jvcodes.com/responsive-registration-form-in-html-and-css/">Glassmorphism Login Form</a>**
+**<a href="https://jvcodes.com/responsive-registration-form-in-html-and-css/">Responsive Registration Form</a>**
 
 ## Demo & Video Tutorial
 
